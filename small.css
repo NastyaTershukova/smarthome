@@ -1,0 +1,9 @@
+@media screen and (max-width: 1280px) {
+    * {
+        --page-padding: 48px;
+        --section-gap: 48px;
+    }
+    .partners-logos {
+        gap: 16px;
+    }
+}
