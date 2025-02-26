@@ -129,7 +129,7 @@
 
     .footer-upper-part {
         flex-direction: column;
-        gap: 24px;
+        gap: 32px;
     }
 
     .footer-upper-part {
@@ -145,13 +145,16 @@
         margin-left: auto;
     }
 
+   .footer-nav {
+        gap: 40px;
+    }
 
     .footer-logo-container {
         /* display: flex;
         flex-direction: row; */
         margin-right: auto;
         margin-left: auto;
-        gap: 8px;
+        gap: 12px;
     }
 
     .footer-logo-container p {
